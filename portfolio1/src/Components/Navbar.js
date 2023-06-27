@@ -6,10 +6,10 @@ function NavBar(){
        
             {/* //navbar link setup */}
             <div className= "links">
-                <a href="/home">Home</a>
-                <a href="/about">About</a>
-                <a href="/experience">Experience</a>
-                <a href="/projects">Projects</a>
+                <a href="/">home </a>
+                <a href="/about"> about </a>
+                <a href="/experience">experience </a>
+                <a href="/projects">projects </a>
             </div>
 
 
